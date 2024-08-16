@@ -125,6 +125,13 @@ CREATE TABLE bank (
 3. Ensure the table structure matches the one used in your Java files.
 
 ## Screenshots
+![Screenshot (1)](https://github.com/user-attachments/assets/ff0fa0bd-859c-4aa5-88bf-863357ed16ed)
+![Screenshot (2)](https://github.com/user-attachments/assets/2b57c6b6-3b2e-41df-942b-b337706be27f)
+![Screenshot (3)](https://github.com/user-attachments/assets/58ac518f-459f-4a8f-969d-776b2ebd1d6d)
+![Screenshot (4)](https://github.com/user-attachments/assets/daaa3761-5500-4b7d-bb32-559d80add6ff)
+![Screenshot (5)](https://github.com/user-attachments/assets/0b016cb2-f48b-442b-8f03-2d1c2c7dd1d0)
+![Screenshot (6)](https://github.com/user-attachments/assets/b33c3ae6-adc4-4a03-89dc-e4be8cb19e6c)
+![Screenshot (7)](https://github.com/user-attachments/assets/e8e701ae-2673-48eb-a05b-84a9e3690b9d)
 
 
 
